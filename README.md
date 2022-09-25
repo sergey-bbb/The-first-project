@@ -1,4 +1,4 @@
-# The-first-project
+# the_first_project
 
 a = ["asd", "bbd", "ddfa", "mcsa"]
 
